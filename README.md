@@ -1,4 +1,4 @@
-Passionate coder, explorer of possibilities, and believer in the power of technology to shape the future. 🚀🌍
+Passionate coder and believer in the power of technology to shape the future. 🚀🌍
 
 👨‍💻 Full-stack developer respecting elegant solutions. Building innovative software that pushes boundaries and exceeds expectations.
 
