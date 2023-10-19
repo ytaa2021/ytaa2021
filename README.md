@@ -1,13 +1,13 @@
-Passionate coder and believer in the power of technology to shape the future. 🚀🌍
+What I'm working on:
 
-👨‍💻 Full-stack developer respecting elegant solutions. Building innovative software that pushes boundaries and exceeds expectations.
+p-classwise: Lead Software Developer on a team project to build an all-encompassing scheduling app for the Claremont Colleges (React, Flask).
+Hungry: Co-Founding an iPhone app assisting college students in building and maintaining real connections through mealtimes (Swift).
 
-🔬 Seeking new challenges to expand my knowledge and skill set.
+Fields of interest covered by current and past projects:
 
-💡 Driven by an understanding of the impact of technology on society. As a reader of philosophy, I contemplate the ethical dimensions of AI with the goal of leveraging technology for the greater good.
+Building user-facing apps to improve aspects of college life.
+Applying Adversarial Attack methodology from computer vision to time series data.
+Using Neural Networks to forecast continous data (Soccer Scorelines, Atmospheric Ozone Levels, Dining Hall Demand)
+Natural Language Processing and Text Based Classification.
 
-🌐 Adept at leading in diverse environments and leveraging the collective strengths of my teams to achieve remarkable outcomes. Whether it's brainstorming sessions or late-night coding, I thrive in collaborative settings where I can impart my wisdom on and bounce my ideas off of others.
 
-⚡️ Passionate about open-source, and hoping for more and more of such opportunities to share knowledge with the community. From contributing to impactful projects to mentoring aspiring developers, I believe in the power of collective learning and giving back to the tech ecosystem.
-
-Reach out if you want to collaborate on a project!!
