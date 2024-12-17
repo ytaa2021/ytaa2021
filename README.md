@@ -53,7 +53,10 @@ Here's what I'm tinkering with right now:
 
 ### 📂 **Dining Hall Demand Predictor**  
 ML models predicting dining hall usage—reducing food waste by **18%**.  
-- *Winner*: **5C Hackathon**, **President's Sustainability Award**  
+- *Winner*: **5C Hackathon**, **Pomona College President's Sustainability Award**
+
+### 🎶 **Spotify Worldwide Music Trends**  
+A beautiful visualization tool to interact with trends across different countries' daily top songs. https://spotifyvizdeployed.onrender.com
 
 ### 🧠 **Custom GPT-2 Transformer**  
 From scratch, no libraries, all **Java**—exploring language generation at its core.  
