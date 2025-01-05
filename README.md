@@ -3,7 +3,8 @@
 Welcome to my corner of the web—where curiosity meets code and projects tell stories.
 
 ## Status Message
-Current NYR: Commit to Git more! I often save my files locally and commit at the end, but am trying to get into the habit of committing regularly!
+
+- Current NYR: Commit to Git more! I often save my files locally and commit at the end, but am trying to get into the habit of committing regularly!
 ---
 
 ## 🚀 About Me  
